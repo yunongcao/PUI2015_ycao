@@ -5,7 +5,9 @@
 ## Environment
 All essential packages are included in Anaconda except for ggplot.
 ggplot can be installed by simply running the following command in the terminal:
+
 		pip install ggplot
+
 Otherwise, one can comment that line and the program should still go through.
 
 
