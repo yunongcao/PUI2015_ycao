@@ -1,12 +1,13 @@
 # About Assignment 3
 
+***
+
 ## Environment
 All essential packages are included in Anaconda except for ggplot.
-ggplot can be installed by simply run the following command in the terminal:
-	pip install ggplot
+ggplot can be installed by simply running the following command in the terminal:
+		pip install ggplot
 Otherwise, one can comment that line and the program should still go through.
 
-***
 
 ## My Contibution
 I participated in the brainstorming about forming the idea and turnning it to the null hypothesis. I wrote the code for this python script and made comments for the notebooks. I also explained the result based on our study.
