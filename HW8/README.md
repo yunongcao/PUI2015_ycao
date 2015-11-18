@@ -7,9 +7,10 @@ The data was organized by Sina Kashuk at CUSP.
 It contains 23 different subway card types 
 
 
-### Correlation and Distribution between 1- and 2- Week Pass
+### Correlation and Distribution between 1- and 2- Week Pass:
+Please grade/comment on the first one
 #### Hexbin Plot with Marginal Distributions
-![Hex](https://github.com/yunongcao/PUI2015_ycao/blob/master/HW8/hex.png "Hex]")
+![Hex](https://github.com/yunongcao/PUI2015_ycao/blob/master/HW8/hex.png "Hex")
 
 #### Regression Plot with Marginal Distributions and KDE
 ![Reg](https://github.com/yunongcao/PUI2015_ycao/blob/master/HW8/reg.png "Reg")
