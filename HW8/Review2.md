@@ -3,7 +3,7 @@ The user has not upload her plot on github yet, so the URL is not available temp
 
 #### Notice: I made the same comments as the one in Review1.md because these two plots looks the same to me.
 
-In terms of clarity, the plot is generally easy to read with all axes labelled clearly. However, I can not really read the height(z coordicate) clearly. Maybe using different color in some sepcific color range is a better idea.
+In terms of clarity, the plot is generally easy to read with all axes labelled clearly. However, I can not really read the height(z coordicate) clearly. Maybe using different color in some sepcific coordiate(for z axis only) range is a better idea.
 
 The plot is both clear and beautiful. The size and color of the scatter are welly chosen. The combination of scatter and background color forms a good contrast which allows me to focus on the scatter.  
 
